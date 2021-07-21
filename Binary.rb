@@ -1,4 +1,7 @@
-class Linear
+
+#Binary Search in Ruby
+
+class Binary
     def initialize
         @key
         @array=[]
@@ -38,6 +41,6 @@ class Linear
     end
 end
 
-var=Linear.new()
+var=Binary.new()
 var.reading()
 puts var.search

@@ -1,4 +1,4 @@
-# Hello World Program in Ruby
+# Bubble Sort in Ruby
 class Linear
     def initialize
         @array=[]

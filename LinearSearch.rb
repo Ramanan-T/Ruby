@@ -1,3 +1,6 @@
+# Linear Search in Ruby
+
+
 class Linear
     def initialize
         @key
